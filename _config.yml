@@ -12,7 +12,7 @@
 
 # Site settings
 title: Elijah Renard
-description: Ideas &#x2192; Products
+description: Designer &#x2192; Unicorn
 owner:
   name: Elijah Renard # or company name
   email: #gfair@arkadianriver.com
@@ -34,14 +34,14 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/elijahrenard
-  github: https://github.com/elijahrenard
   linkedin-square: https://linkedin.com/in/elijahrenard
+  github: https://github.com/elijahrenard
+  twitter: https://twitter.com/elijahrenard
+  instagram: https://instagram.com/elijahrenard
   facebook-official: https://facebook.com/elijahrenard
   google-plus-square: https://plus.google.com/u/0/+elijahrenard
   email: /contact/
   #flickr:
-  instagram: https://instagram.com/elijahrenard
   #youtube-square:
   #spotify:
   #stack-overflow:
