@@ -22,7 +22,7 @@ script: |
 ---
 
 <section>
-  <form id="sendemail" method="post" action="{{ site.data.tokens.mailaction }}">
+  <form id="sendemail" method="POST" action="{{ site.data.tokens.mailaction }}">
     <input type="hidden" value="dog" id="type1" />
     <input type="hidden" value="cow" id="type2" />
     <input type="hidden" value="cat" id="type3" />
@@ -49,6 +49,8 @@ script: |
         </ul>
       </div>
     </div>
+    <input type="hidden" name="__redirect"
+           value="{{ '/contact-thankyou' | prepend: site.baseurl | prepend: site.url }}" />
     <input type="hidden" name="success"
            value="{{ '/contact-success' | prepend: site.baseurl | prepend: site.url }}" />
     <input type="hidden" name="failure"
