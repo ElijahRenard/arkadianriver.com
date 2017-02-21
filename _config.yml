@@ -16,10 +16,10 @@ description: Designer &#x2192; Unicorn
 owner:
   name: Elijah Renard # or company name
   email: #gfair@arkadianriver.com
-  url: http://elijahrenard.com
+  url: https://elijahrenard.github.io
 first_published: 2010 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://elijahrenard.com" # the base hostname & protocol for your site
+url: "https://elijahrenard.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
